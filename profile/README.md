@@ -1,4 +1,4 @@
-***Pwnerzs**
+**Pwnerzs**
 
 **Telegram channel**: https://t.me/Pwn3rzs
 
