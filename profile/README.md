@@ -7,6 +7,7 @@
 
 Welcome to our official repository,
 where we will share our projects / scripts.
-(No cracks, for those refer to our forum/channel)
+
+We're just a bunch of hobbyst / professionals (who?) which love reversing and all kind of infosec topic
 
 Enjoy! :)
