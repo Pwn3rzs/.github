@@ -1,4 +1,3 @@
-**Pwn3rzs**
 ![Status](https://gpvc.arturio.dev/Pwn3rzs)
 
 **Telegram channel**: https://t.me/Pwn3rzs
