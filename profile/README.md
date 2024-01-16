@@ -1,4 +1,4 @@
-![Status](https://gpvc.arturio.dev/Pwn3rzs)
+![Static Badge](https://img.shields.io/badge/Pwn3rzs-8A2BE2?style=for-the-badge&color=purple)
 
 **Telegram channel**: https://t.me/Pwn3rzs
 
