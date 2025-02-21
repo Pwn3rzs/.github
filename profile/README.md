@@ -28,3 +28,8 @@ We have built a thriving community around these principles, where students and e
 We’re excited to have you on board. Feel free to dive into our repositories, join our forums, and contribute to the community. 🔓
 
 Stay curious and keep hacking! ✌️
+
+---
+
+**A Final Word**  
+We want to make it crystal clear: we do this **not for money**. Our goal is to **share knowledge and tools freely** with the community. We will **never allow profit** to influence the direction of our work or community. We do not support or condone malicious intent, malware creation, or using our tools for harmful purposes. The **responsibility for how our work is used rests solely on the individual**. Always be ethical and responsible in your actions.
